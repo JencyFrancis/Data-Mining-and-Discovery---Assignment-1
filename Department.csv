@@ -1,0 +1,11 @@
+Department,Department_Id,Location,Landline_Number
+Cardiology,D001,Floor 2,+1-555-554-77**8
+Neurology,D002,"Wing B, 3rd Floor",+1-555-583-4*4*8
+Orthopedics,D003,Outpatient Area,+1-555-507-*3*22
+Pediatrics,D004,Floor 1,+1-555-558-7**17
+Oncology,D005,"Wing D, 4th Floor",+1-555-524-56**0
+Emergency,D006,Ground Floor,+1-555-561-**771
+Radiology,D007,Floor 3,+1-555-550-02**6
+Dermatology,D008,"Wing A, 3rd Floor",+1-555-567-*11*9
+Psychiatry,D009,Floor 5,+1-555-530-*3*60
+Surgery,D010,Floor 4,+1-555-594-*5*77
