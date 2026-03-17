@@ -1,0 +1,51 @@
+Doctor_Id,Doctor_Name,Joining_Date,Salary,Department,Department_Id,Email,Mobile_Number
+DR0019,nan,2012-03-09,357617,Neurology,D002,n**.n**@nhs.com,602-46*-*9*5
+DR0017,nan,2012-06-05,503285,Psychiatry,D009,n**.n**@nhs.com,53*-94*-72*7
+DR0006,Cassandra Lauren Lin,2015-09-25,444610,Psychiatry,D009,c**.l**@nhs.com,836-3**-*349
+DR0008,Beverly Thomas Mills,2014-07-13,485400,Surgery,D010,b**.m**@nhs.com,5**-*21-2598
+DR0033,Rachael Barbara Nelson,2015-12-25,878024,Surgery,D010,r**.n**@nhs.com,299-*4*-6*51
+DR0009,Jacob Lauren Wilkerson,2004-09-12,868284,Orthopedics,D003,j**.w**@nhs.com,972-**1-*028
+DR0007,Robert Ashlee Waters,2012-01-24,648441,Radiology,D007,r**.w**@nhs.com,***-912-2188
+DR0016,Donald Neil Knight,2000-08-20,175516,Surgery,D010,d**.k**@nhs.com,91*-2*2-4*86
+DR0015,Anna Valerie Johnson,2001-09-28,508808,Oncology,D005,a**.j**@nhs.com,6**-515-300*
+DR0005,Jeffrey Daniel Patel,2013-07-09,519745,Surgery,D010,j**.p**@nhs.com,708-*67-42**
+DR0042,Samuel Luis Downs,2003-03-13,531407,Emergency,D006,s**.d**@nhs.com,616-714-8***
+DR0036,Jessica Brittany Ortiz,2011-01-08,155405,Emergency,D006,j**.o**@nhs.com,55*-*31-972*
+DR0030,Johnathan Samantha Thompson,2015-02-02,396996,Dermatology,D008,j**.t**@nhs.com,59*-8**-2101
+DR0044,nan,2021-12-02,639450,Oncology,D005,n**.n**@nhs.com,333-9*1-4*0*
+DR0001,Chris Stephanie Davis,2008-01-13,425503,Oncology,D005,c**.d**@nhs.com,*3*-85*-7188
+DR0013,Robert Christopher Martin,2005-03-07,262922,Neurology,D002,r**.m**@nhs.com,*66-*8*-5750
+DR0004,Maria April Johns,2000-11-24,914566,Orthopedics,D003,m**.j**@nhs.com,47*-21*-5*94
+DR0023,Jordan Cameron Williams,2017-10-04,328693,Dermatology,D008,j**.w**@nhs.com,3*7-59*-7*22
+DR0049,Kelly Joe Berry,2004-03-12,173347,Dermatology,D008,k**.b**@nhs.com,**6-605-642*
+DR0002,Zachary Rachel Scott,2008-02-28,953674,Cardiology,D001,z**.s**@nhs.com,*80-*5*-1906
+DR0012,Margaret Sarah Booth,2006-02-23,251289,Orthopedics,D003,m**.b**@nhs.com,309-*25-3**6
+DR0026,Dennis Edward Torres,2023-07-25,215398,Oncology,D005,d**.t**@nhs.com,75*-**1-3094
+DR0010,Cory Katherine Valenzuela,2016-09-17,253182,Dermatology,D008,c**.v**@nhs.com,3*5-2*0-0*47
+DR0043,Michael Ryan Robinson,2005-05-25,331009,Surgery,D010,m**.r**@nhs.com,2*8-217-52**
+DR0025,James Heather Taylor,2021-07-26,169489,Pediatrics,D004,j**.t**@nhs.com,2**-*40-6098
+DR0032,Raymond John Holland,2020-02-16,688394,Psychiatry,D009,r**.h**@nhs.com,*62-6*3-4*65
+DR0045,Seth Patricia Garcia,2017-07-23,589882,Emergency,D006,s**.g**@nhs.com,*03-42*-4*94
+DR0022,Leslie Angel Castillo,2009-03-14,283746,Emergency,D006,l**.c**@nhs.com,*74-478-3**2
+DR0011,nan,2011-08-09,607628,Neurology,D002,n**.n**@nhs.com,419-**5-1*83
+DR0050,Victoria Sherry Ford,2005-01-21,189106,Neurology,D002,v**.f**@nhs.com,*79-62*-5*55
+DR0038,Christopher Renee Cunningham,2013-08-01,923750,Cardiology,D001,c**.c**@nhs.com,746-9*8-*90*
+DR0046,Sarah Edward Young,2016-06-03,466804,Pediatrics,D004,s**.y**@nhs.com,5*2-**0-3357
+DR0048,Melinda Melanie Johnson,2008-11-01,451703,Orthopedics,D003,m**.j**@nhs.com,*02-286-*0*4
+DR0047,nan,2015-12-26,524212,Cardiology,D001,n**.n**@nhs.com,205-*1*-*814
+DR0040,Raven Lee Gomez,2019-02-21,681820,Pediatrics,D004,r**.g**@nhs.com,93*-29*-0*53
+DR0003,Nichole Jacob Morse,2017-11-28,412813,Pediatrics,D004,n**.m**@nhs.com,56*-2**-8820
+DR0018,Amanda Nicole Smith,2002-07-15,409139,Psychiatry,D009,a**.s**@nhs.com,494-**1-568*
+DR0029,Dean John Bryant,2005-08-04,504028,Neurology,D002,d**.b**@nhs.com,9*5-786-*4*3
+DR0014,Jennifer Lindsey Roberts,2000-09-15,588661,Cardiology,D001,j**.r**@nhs.com,5*9-*82-1*65
+DR0020,Tyler Mark Baird,2006-03-19,1454901,Emergency,D006,t**.b**@nhs.com,203-*60-6*1*
+DR0039,Robert Haley Perez,2022-02-08,505844,Emergency,D006,r**.p**@nhs.com,7**-358-3*76
+DR0041,Christopher Kelly Thornton,2003-01-28,281650,Cardiology,D001,c**.t**@nhs.com,*85-51*-882*
+DR0027,Deborah Kevin Mathews,2014-07-05,336963,Surgery,D010,d**.m**@nhs.com,594-*5*-*305
+DR0034,Kenneth Monique Coleman,2021-06-23,541664,Surgery,D010,k**.c**@nhs.com,997-*60-*35*
+DR0035,Julie Jose Cross,2013-09-07,282676,Dermatology,D008,j**.c**@nhs.com,*29-905-*29*
+DR0037,Caitlin John Morris,2008-08-03,790653,Cardiology,D001,c**.m**@nhs.com,*38-*9*-7586
+DR0031,David Chelsea Smith,2020-02-24,719259,Surgery,D010,d**.s**@nhs.com,9*7-9**-0274
+DR0021,Keith David Ramirez,2014-10-04,267771,Surgery,D010,k**.r**@nhs.com,*07-*8*-9338
+DR0028,David Tasha Porter,2014-01-21,539753,Dermatology,D008,d**.p**@nhs.com,501-*51-**44
+DR0024,Julie Paul Rivera,2012-04-13,346895,Psychiatry,D009,j**.r**@nhs.com,**2-847-127*
